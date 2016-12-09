@@ -68,7 +68,7 @@
     "component-classes": "1.x",
     "dom-scroll-into-view": "1.x",
     "rc-animate": "2.x",
-    "rc-menu": "5.x || 4.x",
+    "rc-menu": "git+https://github.com/RK-WJW/menu.git#47fa2747ca34de90a633b2dff4bc0a89251e9ed9",
     "rc-trigger": "1.x",
     "rc-util": "4.x",
     "warning": "2.x"
