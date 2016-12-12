@@ -1,5 +1,9 @@
-# rc-select
+# rk-rc-select
 ---
+
+rk-rc-select: https://github.com/RK-WJW/select, 在[rc-select](http://github.com/react-component/select)基础上做了些调整
+- 修改了依赖rc-menu，改为调整后的rk-rc-menu
+
 
 React Select
 
