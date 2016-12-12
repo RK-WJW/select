@@ -1,7 +1,7 @@
 import React, { cloneElement, PropTypes } from 'react';
 import { findDOMNode } from 'react-dom';
 import toArray from 'rc-util/lib/Children/toArray';
-import Menu, { ItemGroup as MenuItemGroup } from 'rc-menu';
+import Menu, { ItemGroup as MenuItemGroup } from 'rk-rc-menu';
 import scrollIntoView from 'dom-scroll-into-view';
 import { getSelectKeys, preventDefaultEvent } from './util';
 

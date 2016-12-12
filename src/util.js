@@ -1,4 +1,4 @@
-import { ItemGroup as MenuItemGroup } from 'rc-menu';
+import { ItemGroup as MenuItemGroup } from 'rk-rc-menu';
 import React from 'react';
 
 export function getValuePropValue(child) {

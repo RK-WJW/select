@@ -1,6 +1,6 @@
 import React from 'react';
 import { getValuePropValue, UNSELECTABLE_ATTRIBUTE, UNSELECTABLE_STYLE } from './util';
-import { Item as MenuItem, ItemGroup as MenuItemGroup } from 'rc-menu';
+import { Item as MenuItem, ItemGroup as MenuItemGroup } from 'rk-rc-menu';
 import warning from 'warning';
 import OptGroup from './OptGroup';
 import Option from './Option';
